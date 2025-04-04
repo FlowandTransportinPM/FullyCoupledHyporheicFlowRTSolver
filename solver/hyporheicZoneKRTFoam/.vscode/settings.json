@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "hyporheicZoneKTOMRTransportFoam.C": "cpp",
+        "hyporheicZoneKRTFoam.C": "cpp"
+    }
+}

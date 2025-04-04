@@ -1,0 +1,3 @@
+hyporheicZoneKRTFoam.C  
+
+EXE = $(HPFOAM_APPBIN)/hyporheicZoneKRTFoam
